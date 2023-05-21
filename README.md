@@ -21,9 +21,9 @@ Until now, I used to watch theoretical videos and lessons, but I have now shifte
 
 And, of course, I will continue to share the resources I use here.
 
-[Learn to Program 9 : Object Oriented Programming](https://youtu.be/1AGyBuVCTeE?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
-[Python Algorithms for Interviews](https://youtu.be/p65AHm9MX80?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
-[Algorithms in Python – Full Course for Beginners](https://youtu.be/fW_OS3LGB9Q?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
-[Depth First Search (DFS) Explained: Algorithm, Examples, and Code](https://youtu.be/PMMc4VsIacU?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
-[Top 8 Data Structures for Coding Interviews](https://youtu.be/uhYq27iSk9s?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
-[Python Tutorial: if __name__ == '__main__'](https://youtu.be/sugvnHA7ElY?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
+- [Learn to Program 9 : Object Oriented Programming](https://youtu.be/1AGyBuVCTeE?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
+- [Python Algorithms for Interviews](https://youtu.be/p65AHm9MX80?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
+- [Algorithms in Python – Full Course for Beginners](https://youtu.be/fW_OS3LGB9Q?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
+- [Depth First Search (DFS) Explained: Algorithm, Examples, and Code](https://youtu.be/PMMc4VsIacU?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
+- [Top 8 Data Structures for Coding Interviews](https://youtu.be/uhYq27iSk9s?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
+- [Python Tutorial: if __name__ == '__main__'](https://youtu.be/sugvnHA7ElY?list=PLmQEHzmcNEaX5ne_BYBvglY3212zxW-sF)
