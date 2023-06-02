@@ -41,7 +41,7 @@ def product_array(arr):
         
     # build right array
     for i in range(1, n):
-        right[i] = right[i-1] * arr[::-1][i-1]
+        right[i] = right[i-1] * arr[::-1][i-1] # [::-1] right array
         
     # build product array from subarrays
     for i in range(n):
